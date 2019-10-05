@@ -7,6 +7,7 @@ public class Palindrome {
     public void start() {
         //some comments
         //hello
+        //added new branch olkh
         String enteredString = getString();
         printResults(longestPalindrome(enteredString));
     }
