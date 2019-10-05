@@ -6,7 +6,7 @@ public class Palindrome {
 
     public void start() {
         //some comments
-        //new
+        //hello
         String enteredString = getString();
         printResults(longestPalindrome(enteredString));
     }
